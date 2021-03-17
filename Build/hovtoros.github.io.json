@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Armenian Kingdom - MVP",
+"productVersion": "0.1",
+"dataUrl": "hovtoros.github.io.data.unityweb",
+"wasmCodeUrl": "hovtoros.github.io.wasm.code.unityweb",
+"wasmFrameworkUrl": "hovtoros.github.io.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.4.19f1"
+}
