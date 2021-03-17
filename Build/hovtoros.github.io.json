@@ -1,7 +1,7 @@
 {
 "companyName": "DefaultCompany",
-"productName": "Armenian Kingdom - MVP",
-"productVersion": "0.1",
+"productName": "ArmenianKingdom-MVP",
+"productVersion": "1.0",
 "dataUrl": "hovtoros.github.io.data.unityweb",
 "wasmCodeUrl": "hovtoros.github.io.wasm.code.unityweb",
 "wasmFrameworkUrl": "hovtoros.github.io.wasm.framework.unityweb",
